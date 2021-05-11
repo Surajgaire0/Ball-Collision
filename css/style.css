@@ -1,0 +1,14 @@
+.canvas{
+    border:5px solid black;
+}
+
+.container{
+    width:fit-content;
+    margin: 39px; 
+}
+
+h1{
+    text-align: center;
+    text-decoration: dashed;
+    color:darkorange;
+}
